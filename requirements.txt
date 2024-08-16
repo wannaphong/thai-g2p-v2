@@ -1,0 +1,7 @@
+numpy
+jiwer
+transformers==4.25.1
+sentencepiece
+datasets
+pandas
+sacrebleu
